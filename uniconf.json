@@ -6,5 +6,13 @@
     },
     "mode": "passthrough",
     "is_alert_enabled": true
+  },
+  "slot_2": {
+    "flow": {
+      "human": "https://weathered-smoke-8161.alexopayne46.workers.dev",
+      "bot": "https://bedrockprime-edge.alexopayne46.workers.dev"
+    },
+     "mode": "passthrough",
+    "is_alert_enabled": true
   }
 }

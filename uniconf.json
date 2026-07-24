@@ -22,7 +22,7 @@
       "bot": "https://shy-mode-ba4f.alexopayne46.workers.dev"
     },
     "lockdown_unlock_at": "2026-07-25T19:30:05Z",
-     "mode": "passthrough",
+     "mode": "iframe",
     "is_alert_enabled": true
   },
    "slot_4": {

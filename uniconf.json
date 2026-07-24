@@ -12,6 +12,7 @@
       "human": "https://weathered-smoke-8161.alexopayne46.workers.dev",
       "bot": "https://bedrockprime-edge.alexopayne46.workers.dev"
     },
+    "lockdown_unlock_at": "2026-07-24T11:40:05Z",
      "mode": "passthrough",
     "is_alert_enabled": true
   }

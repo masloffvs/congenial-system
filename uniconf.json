@@ -2,9 +2,9 @@
   "slot_1": {
     "flow": {
       "human": "https://weathered-smoke-8161.alexopayne46.workers.dev",
-      "bot": "https://keto-diet-guide.alexopayne46.workers.dev" 
-  },
-  "mode": "assets",  
-  "is_alert-enabled": true,
+      "bot": "https://keto-diet-guide.alexopayne46.workers.dev"
+    },
+    "mode": "assets",
+    "is_alert_enabled": true
   }
 }
